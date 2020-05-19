@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    width: 1000px; 
+    
+
+}
+
+
+#top{
+    border: darkblue solid 2px;
+width: 1000px; 
+height: 200px;
+background-color: yellow;
+   
+}
+
+div{background-color: darkblue;
+    width: 1000px; 
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: yellow;
+ }
+
+ .center {float: left;
+    margin-right: 50px;
+    width: 200px;
+    }
+
+ a:link {color:yellow}
+a:visited {color:yellowgreen}
+
+#bottom {background-color: yellow;}
+
+
