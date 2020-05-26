@@ -5,7 +5,10 @@ body {
 
 }
 
-
+label{font-size: 22px;color: white;padding-bottom: 20px;}
+input{padding-bottom: 5px;
+    font-size: 22px;
+color: blue;}
 #top{
     border: darkblue solid 2px;
 width: 1000px; 
@@ -25,6 +28,7 @@ div{background-color: darkblue;
     margin-right: 50px;
     width: 200px;
     }
+
 
  a:link {color:yellow}
 a:visited {color:yellowgreen}
